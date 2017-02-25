@@ -1,5 +1,3 @@
 # Docs
 
-Sample file for demo
-
-updated docs 
+New lines added to the docs
